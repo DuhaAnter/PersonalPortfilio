@@ -75,9 +75,9 @@ button {
   gap: 3rem;
   /* background-color: green; */
 }
- img {
+.container img {
   margin-top: 3rem;
-  width: 35%;
+  width: 40%;
   border-radius: 50%;
   box-shadow: 0 0 80px #b74b4b;
 }
